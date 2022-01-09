@@ -86,6 +86,7 @@ _Материалы разбиты по темам, но не отсортиро
 - [Еженедельные рассылки с новинками JS](https://javascriptweekly.com/)
 - [Еженедельные рассылки с новинками NodeJS](https://nodeweekly.com/)
 - [Еженедельные рассылки с новинками React](https://react.statuscode.com/)
+- [ссылкf на репл с касл](https://replit.com/@iamafansev/CASL#index.js)
 - []()
 
 #### 🎉 Курсы
@@ -130,8 +131,28 @@ _Материалы разбиты по темам, но не отсортиро
 ### Project 4
 - []()
 - []()
+## 📹 Из канала записи стримов  
 
-
+- [Стрим с Глебом / 13-10-2021](https://hexlet-io.zoom.us/rec/play/VgAfQZSAIsVlafDpft9QGM5K-rchcEyr4JHqM-PjL1ZY8dzoXhucu26Npb1zaEmgrxZyROV_TTrWWfh0.cDmR524l5Tp_22rH)
+- [Папка с запиями встреч](https://drive.google.com/drive/folders/1ixYP_B5OSEWkuOwoYDBO7Hr89zpX-6U2?usp=sharing )
+- [JS-ассинхрон. Масскодинг. 20.10.21. Динислам Абдулсаламов](https://hexlet-io.zoom.us/rec/share/Ru4VVigr_2i6Jg3EkP6yc4EWQeVxilo8j4DUzHJQICCk_f1_7iXfVag0KD_Ef0X5.1tb1nWaH6H5boRsa?startTime=1634744677000)
+- [JS-асинхрон. Проектирование функций, разбор частых ошибок в первом проекте. 25.10.21. Иван Гагаринов](https://hexlet-io.zoom.us/rec/play/ldHufdfcYukrK-9N7_Xm6-MJ2wbImpWwq-2s-w_stgIUaJLbJO[…]5244781066.f865ccc474129cef5d6389ee984d3021&_x_zm_rhtaid=654)
+- [Запись лайва с Глебом Андреевым](https://hexlet-io.zoom.us/rec/play/EjKu7Z3FSoe84xBAj7OS34ZxxUe3WderqlsXJL1NicNtBUDiZXBVfMpEMcxOGfWZc-CTQBx6Mm2xu8oy.zj_UYHrvBqLkxhB0)
+- [Разбор статических методов Promise, 03.11.21 Олег Афанасьев- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/MAAMBxtpZ4CoHcvOQmhWSYNeq8S7OBCyuXin9H6-Fl6nSsfSEK7vIzFxgoelSrsKhO-KLV_9HWBPjXGo.dggWqNn4Ntzj3eY_)
+- [Запись встречи Q&A по второму модулю (03.11.21) Q&A по второму модулю; 03.11.21; Frontend-26; Динислам Абдулсаламов- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/share/QcSjl7_iNEi7r4gjZl8MeC8r1oK1hepLL38MXPD629wZ0zFhm4tLylG73scxOqKD.meZJDyKJZtgnGBNy?startTime=1635954883000)
+- [Вебинары На Хекслете](https://www.youtube.com/playlist?list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS)
+- [Эффективная отладка кода; 04.11.21; Frontend-26; Глеб Андреев;- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/aMnvjGguzQcs5YOPwBc-joFJmnNw7gGcrT2jpBxK2fMk0PvQI3[…]36124073217.18af5a9ddf1d6ca2d5dbe8790cb2146c&_x_zm_rhtaid=25)
+- [Абстракция с примерами; 11.11.21; frontend-26; Иван Гагаринов;- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/ZPCOMl-o9fyfN4-MKcW6LBdIz9OG84FIuL3pIMdrGXMMziUtfUhipWftQz2sFXTLZIIUJpQdwecNZ1JB.flJd0vtYVoZtnFMb?startTime=1636646114000&_x_zm_rtaid=zsHKou-BQUOlFP0xVOsrOg.1636705377986.1501201fd03483e01b46cc23c2e7b43d&_x_zm_rhtaid=438)
+- [Типовые задачи на собеседованиях; 12.11.21; JavaScript; Олег Афанасьев;- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/nAiigUPRW6TcuSnxgYbQ6BnJK4bAL8dVT1MFv8IqLRD1QZY1FJ6kwEzOG3wyi2YM8xt5zVMg181IOi0q.kav0Lm7X71RAcVe0?startTime=1636731065000&_x_zm_rtaid=2YlmBIhzSFSv1tlQatnH3g.1636820922198.b807d6638eb4165ff9a3bb2d6aa38b12&_x_zm_rhtaid=808)
+- [Алгоритмы поиска (бинарный поиск, поиск в ширину, поиск в глубину); Олег Афанасьев; JavaScript- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/a7hywP-P86pNTX5KUNR9kcWlXByIL0b1i1GFRGvaoe0-Vy0vv0[…]8017411049.bfb4309db5f48d94a48996139db6b0c4&_x_zm_rhtaid=548)
+- [Q&A по второму модулю; Глеб Андреев; potok-frontend-26- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/bGq0ENisxjF3Ig9Xzs2KQviG_oZ2wDR0JwHd2W6caXuqDVB2Dt1V9IZWetg94mGEdSowhwoAdRQxQ8xm.KM5kuR1tF6R0RXqy?startTime=1639065104000&_x_zm_rtaid=3vNm7kOgSaeeDCyGda_U_w.1639131846391.6304f4a5b52d533391c8179fa662fc05&_x_zm_rhtaid=612)
+- [С чего начать решая задачу; Иван Гагаринов; potok-frontend-26- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/Xn_yF6GDwo-y4uC-Woq4Sya9R8gDr1E1RUYEQ3wt80HTsaNj27G4LTcW-kgS7IZyzDvoQMe6iqZJQttb.-gU0Y6SmB4mgbOTT?startTime=1640186689000&_x_zm_rtaid=9ckQM8fNSNylsHq_AVMCNw.1640260610895.1decf6135a03f42f10a0cc7388fd7cc6&_x_zm_rhtaid=344)
+- [Написание тестов с Иваном Гагариновым](https://youtu.be/oP95fIeBomc?list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&t=3708)
+- [Промисы: как с ними работать; Иван Гагаринов; potok-frontend-26- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/share/st0QY3In02CDcxKiyzp8tn2AJSjGvLhIjbax-h6RQBsYkJFVZ3cWd6rZ6xeYKs7B.WbAQeIXcx-vtqEt7?startTime=1640101825000)
+- [Олег Афанасьев, вебинар: Авторизация на основе утверждений/предмета](https://hexlet-io.zoom.us/rec/share/st0QY3In02CDcxKiyzp8tn2AJSjGvLhIjbax-h6RQBsYkJFVZ3cWd6rZ6xeYKs7B.WbAQeIXcx-vtqEt7?startTime=1640101825000) + [Олег поделился ссылкой на репл с касл](https://replit.com/@iamafansev/CASL#index.js)
+- [Сложность алгоритмов и Big O Notation; Олег Афанасьев; JavaScript- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/PUF9sVVw7dMFusvJ8CWdRyBTv4O-hk5pv64uA1k-rNRNtOpfKj-77uTesQOFFiMZcetJLqvLhqaskkkN.qIIck8UnCQm_uZoJ?startTime=1640706611000&_x_zm_rtaid=kn9ySOyySfqc0l8pC3GuHw.1640771242477.bcba1fcda4f0e38afbb7a0d70c35ec48&_x_zm_rhtaid=781)
+- [Решение алгоритмических задачек; Роман Куракин; potok-frontend-26- Совместно используемый экран с видом докладчика](https://hexlet-io.zoom.us/rec/play/3HBmwq38UpERv4ZtEzn1_AWaf71jMfyx8NI8zTEt3POcyWWrpl5iXAZeW2yI5YHlrjY6bYZd9UgYnWWs.raTiAivxUOsO2_r9?startTime=1640790762000&_x_zm_rtaid=K-OTbqNJR5GrVfoqVxRFUg.1640852006599.f6cb4f31d96c3f0f14ee077fbc65616c&_x_zm_rhtaid=298)
+- 
 
 
 
