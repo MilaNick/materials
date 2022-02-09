@@ -6,7 +6,6 @@ _Материалы разбиты по темам, но не отсортиро
 ##  🛠 Окружение / Environment  
 - [Установка Docker на MacOS](https://jasonmccreary.me/articles/install-apache-php-mysql-macos-docker-local-development)
 - [Хекслет: кодинг в прямом эфире. Пишем cli-утилиту с нуля ](https://youtu.be/us8AMJKEzZg)
-- [Docker: Основы](https://ru.hexlet.io/courses/docker-basics?utm_source=pocket_mylist)
 - []()
 
 ## ![](src/img/cat.png) Git  
@@ -101,7 +100,7 @@ _Материалы разбиты по темам, но не отсортиро
 - [Еженедельные рассылки с новинками NodeJS](https://nodeweekly.com/)
 - [Еженедельные рассылки с новинками React](https://react.statuscode.com/)
 - [ссылки на репл с касл](https://replit.com/@iamafansev/CASL#index.js)
-- [Совершенный код (ITVDN)](https://youtube.com/playlist?list=PL6p_PPKPl9GDGPAFKaSXbmDdzA2J1da4U)  
+- [Обзор книги Стива Макконнелла "Совершенный код" (ITVDN)](https://youtube.com/playlist?list=PL6p_PPKPl9GDGPAFKaSXbmDdzA2J1da4U)  
 - []()
 
 #### 🎉 Курсы
@@ -112,6 +111,7 @@ _Материалы разбиты по темам, но не отсортиро
 - [Курс по структурам данных для JS](https://www.udemy.com/course/data-structures-algorithms-javascript/)
 - [Udemy | Фундаментальный JavaScript. С практикой и проектами](https://www.udemy.com/course/fundamental-javascript/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-TECH-RU-DSA-RU-RUS_._ci__._sl_RUS_._vi_TECH_._sd_All_._la_RU_._&utm_content=deal4584&utm_term=_._ag_107918918051_._ad_440091294638_._de_c_._dm__._pl__._ti_dsa-914064066683_._li_1012054_._pd__._&gclid=Cj0KCQiA3fiPBhCCARIsAFQ8QzX3b75QJv3Jh-VXopBAyx16qsJir9NQUv-vIZkQd4-XktYxx-v1JnkaAk4TEALw_wcB)
 - [Udemy | Node.js - с нуля, основы и построение архитектуры приложений](https://www.udemy.com/course/nodejs-start/)
+- [Docker: Основы](https://ru.hexlet.io/courses/docker-basics?utm_source=pocket_mylist)
 - []()
 
 ## 🌱 Карьера
