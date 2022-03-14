@@ -12,6 +12,7 @@ _Материалы разбиты по темам, но не отсортиро
 - [Лучшее видео от разработчика JetBrains](https://www.youtube.com/watch?v=aiYkJOPD9v8&t=1732s)
 - [Webpack 5 CSS Walkthrough: Sass, PostCSS and more!](https://youtu.be/SH6Y_MQzFVw)
 - [как разделить конфиги](https://webpack.js.org/guides/production/)
+- [Запросы к серверу с библиотекой Axios](https://www.youtube.com/watch?v=fDVhl3DGkD0&ab_channel=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%9D%D0%B5%D0%BF%D0%BE%D0%BC%D0%BD%D1%8F%D1%89%D0%B8%D0%B9)
 - []()
 
 ## ![](src/img/cat.png) Git  
