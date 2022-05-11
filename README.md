@@ -13,6 +13,8 @@ _Материалы разбиты по темам, но не отсортиро
 - [Webpack 5 CSS Walkthrough: Sass, PostCSS and more!](https://youtu.be/SH6Y_MQzFVw)
 - [как разделить конфиги](https://webpack.js.org/guides/production/)
 - [Запросы к серверу с библиотекой Axios](https://www.youtube.com/watch?v=fDVhl3DGkD0&ab_channel=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%9D%D0%B5%D0%BF%D0%BE%D0%BC%D0%BD%D1%8F%D1%89%D0%B8%D0%B9)
+- [Стас Курилов — Глубокое погружение в webpack ](https://www.youtube.com/watch?v=aiYkJOPD9v8&t=1732s)
+- [Webpack 5 CSS Walkthrough: Sass, PostCSS and more! ](https://youtu.be/SH6Y_MQzFVw)
 - []()
 
 ## ![](src/img/cat.png) Git  
@@ -54,6 +56,9 @@ _Материалы разбиты по темам, но не отсортиро
 - [Переводы 3 из 10 статей курса Дэна Абрамова Just JavaScript](https://km-webstudio.xyz/post/[just-javascript]-%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-8207064?utm_source=pocket_mylist)
 - [Переводы 3 из 10 статей курса Дэна Абрамова Just JavaScript](https://km-webstudio.xyz/post/[just-javascript]-%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-8207064?utm_source=pocket_mylist)
 - [Переводы 3 из 10 статей курса Дэна Абрамова Just JavaScript](https://km-webstudio.xyz/post/%5Bjust-javascript%5D-the-javascript-%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-8306160?utm_source=pocket_mylist)
+- [Основы javascript 15 - Объект window и BOM (объектная модель браузера) ](https://youtu.be/mzoe-I7r5HE)
+- [Объемная статья по архитектуре фронтенда](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
+- [Объяснение понятия “состояние” в JavaScript на примере приготовления простого блюда](https://medium.com/nuances-of-programming/%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-%D0%B2-javascript-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D0%BE-%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0-10faace12f76)
 - []()
 
 #### Методы массивов  
@@ -81,10 +86,12 @@ _Материалы разбиты по темам, но не отсортиро
 - [Разрушаем мифы про Node.js](https://www.youtube.com/watch?v=Nykxhmh3WDY)
 - []()
 
-## 🚀 Фреймворки
+## 🚀 Фреймворки, библиотеки
 - [Журнал «Код» программирование без снобизмаю Зачем нужен jQuery](https://thecode.media/jquery/)
 - [Хуки, формик](https://www.youtube.com/c/Codevolution/playlists)
 - [про реакт хуки от лапочки Дэна](https://youtu.be/dpw9EHDh2bM?t=684)
+- [Запросы к серверу с библиотекой Axios](https://www.youtube.com/watch?v=fDVhl3DGkD0&ab_channel=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%9D%D0%B5%D0%BF%D0%BE%D0%BC%D0%BD%D1%8F%D1%89%D0%B8%D0%B9)
+- [Redux и React. Все о Redux. Понятная теория для всех. React + redux](https://www.youtube.com/watch?v=5Qtqzeh5FeM&list=PL6DxKON1uLOHsBCJ_vVuvRsW84VnqmPp6&index=2)
 - []()
 
 ## 🏆 Тестирование
@@ -113,7 +120,8 @@ _Материалы разбиты по темам, но не отсортиро
 - [Вы пока еще не знаете JS Симонс](https://codeparty-group.slack.com/files/U02J1MT9GKC/F032VEULX8A/____________.________________________________________js.pdf)
 - [SICP на JS (English only)](https://sicp.sourceacademy.org/sicpjs.pdf )
 - [Шпаргалка по JS](https://codeparty-group.slack.com/files/U02R02UBQQ6/F035FG1200P/shpargalka_po_js.pdf)
-- 
+- [Head First Паттерны проектирования](https://codeparty-group.slack.com/files/U02J1MT9GKC/F03EBL7AYS2/head_first_______________________________________________2022_____________________________________________________.pdf)
+- []()
 
 ## 🔖 Ресурсы
 - [Документация для разработчиков на человеческом языке](https://doka.guide/ )
@@ -157,6 +165,7 @@ _Материалы разбиты по темам, но не отсортиро
 - [Плейлист с собеседованиями](https://www.youtube.com/watch?v=gV6eobXisYU&list=PL6DxKON1uLOG0carDseYltoAovmnjjhZk)
 - [Плейлист с собеседованиями](https://www.youtube.com/watch?v=8Xuftz2IiAI&list=PL0k-9Y7O1GwfBJikWB5xRgKxegivxFNsY)
 - [Руководство по оформлению профиля в LinkedIn: примеры и лайфхаки — Карьера на vc.ru](https://vc.ru/hr/305197-rukovodstvo-po-oformleniyu-profilya-v-linkedin-primery-i-layfhaki)
+- [Илья Якямсев "Эффективность не работает", конференция FrontDays 2018. Чувак словил жесткую депрессию и рассказывает, что в айтишке это неизбежно, но жить с этим можно. Ну и рассказывает собственно как с этим жить. Очень смешной, но и очень полезный доклад!](https://www.youtube.com/watch?v=K6oZuB8_dU8)
 - []()
 
 ## 📌 Разное
@@ -181,11 +190,11 @@ _Материалы разбиты по темам, но не отсортиро
 
 ### Project 3
 - []()
-- []()
+
 
 ### Project 4
 - []()
-- []()
+
 ## 📹 Из канала записи стримов  
 
 - [Все вебинары](https://www.youtube.com/playlist?list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS)
@@ -217,7 +226,13 @@ _Материалы разбиты по темам, но не отсортиро
 - [Мобильное приложение по первому проекту Brain Games. Ч.1](https://www.youtube.com/watch?v=0DdVJ_2QNdY)
 - 27.01.22 | [Деревья и их обход; Динислам Абдулсаламов](https://www.youtube.com/watch?v=8MuZMflvP_M&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=57)
 - 03.02.22 | [Q&A по второму модулю. Роман Куракин](https://www.youtube.com/watch?v=r73ze0qXayc&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=58)
-- []()
-- []()
+- 17.02.22 | [Настройка окружения. Иван Гагринов](https://www.youtube.com/watch?v=exnEyEWuf0g&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=64)
+- 03.03.22 | [Принцип TDD. Глеб Андреев](https://www.youtube.com/watch?v=ggMjy00zAsw&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=67)
+- 03.03.22 | [Typescript - основы. Иван Гагаринов](https://www.youtube.com/watch?v=k6BVMfhqeNo&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=68)
+- 10.03.22 | [Вебинар “Unit тесты“. Роман Куракин](https://www.youtube.com/watch?v=Aw85C13sPwY&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=70)
+- 07.04.22 | [Вебинар «Как устроен npm-пакет? Тонкости работы с npm». Айдар Шайхутдинов](https://www.youtube.com/watch?v=t5mBMxudRQo&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=82)
+- 13.04.22 | [Вебинар “Как устроен Redux и как с ним работать“. Глеб Андреев](https://www.youtube.com/watch?v=3gF8eNJZdwI&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=86)
+- 20.04.22 | [Вебинар «Как устроен JS-движок на примере V8?». Айдар Шайхутдинов](https://www.youtube.com/watch?v=lRitCAlzK5M&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=87)
+- 27.04.22 | [Вебинар "Инструменты тестирования фронтенд-приложений". Иван Гагаринов](https://www.youtube.com/watch?v=bF_1txapQ0E&list=PLQUXJZ4AOy9omPsA1O7mN2Q6sy_lcy6QS&index=89)
 - []()
 
