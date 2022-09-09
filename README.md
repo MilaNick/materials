@@ -17,6 +17,8 @@ _Материалы разбиты по темам, но не отсортиро
 - [Webpack 5 CSS Walkthrough: Sass, PostCSS and more! ](https://youtu.be/SH6Y_MQzFVw)
 - [Docker для фронта — как с ним работать](https://ru.hexlet.io/blog/posts/docker-dlya-fronta-kak-s-nim-rabotat)
 - [Лучшие туториалы по установке Docker и Docker compose](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04)
+- [Локальный сервер базы данных из json](https://github.com/typicode/json-server)
+- [Модульность стилей в вебпак](https://youtu.be/IcMVy0EA7As)
 - []()
 
 ## ![](src/img/cat.png) Git  
@@ -32,6 +34,8 @@ _Материалы разбиты по темам, но не отсортиро
 - [Update a pinned gist to contain WakaTime stats ](https://github.com/marketplace/actions/waka-box) на англ.
 - [GitHub - gelstudios/gitfiti: abusing github commit history for the lulz](https://github.com/gelstudios/gitfiti) на англ.
 - [Рисуем коммитами на Гитхабе](https://habr.com/ru/post/319298/)
+- [Monorepo Explained](https://monorepo.tools)
+- [Правила формирования имени commits](https://www.conventionalcommits.org/en/v1.0.0/ )
 - []()
 
 ## 🖋 Командная строка  
@@ -115,7 +119,13 @@ _Материалы разбиты по темам, но не отсортиро
 - [Controlled and uncontrolled form inputs in React don't have to be complicated - Gosha Arinich | Статья про формы в реакте | англ.яз](https://goshacmd.com/controlled-vs-uncontrolled-inputs-react/)
 - [Jotai, primitive and flexible state management for React | Крутая библиотека для стейта и кейсы с примерами работы |  англ.яз](https://jotai.org/docs/basics/showcase )
 - [React Icons](https://react-icons.github.io/react-icons/icons?name=fc)
+- [Настройка ESLint для реакта](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b)
+- [Как организовать структуру папок в реакт проекте](https://bradfrost.com/blog/post/atomic-web-design)
+- [Встроенная типизация у реакта](https://reactjs.org/docs/typechecking-with-proptypes.html)
+- [Проблема перерендера](https://www.developerway.com/posts/react-re-renders-guide)
+- [Бета учебник по реакту от разрабов](https://beta.reactjs.org/learn/)
 - []()
+
 
 ## 🏆 Тестирование
 - [Тестирование JavaScript от А до Я (Jest, React Testing Library, e2e, screenshot)](https://www.youtube.com/watch?v=y2emL1fMRyY)
@@ -130,6 +140,9 @@ _Материалы разбиты по темам, но не отсортиро
 - [Для тех кто хочет верстку чуть лучше понять](https://youtu.be/Qk2UGlFNKPE)
 - [Для тех кто хочет верстку чуть лучше понять](https://youtu.be/ouZnGUefneQ)
 - [Верстка сайта с нуля в Figma](https://www.youtube.com/playlist?list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--)
+- [Модульность стилей в вебпак](https://youtu.be/IcMVy0EA7As)
+- [Сравнение производительности CSS и CSS-in-JS в реальном мире. Обзор подходов css-in-js + бонус холивар в комментах](https://habr.com/ru/company/ruvds/blog/556164/)
+- [Ресурс для создания спиннера и не только](https://loading.io/)
 - []()
 
 ## 📖 Литература
@@ -165,7 +178,7 @@ _Материалы разбиты по темам, но не отсортиро
 - [Обзор книги Стива Макконнелла "Совершенный код" (ITVDN)](https://youtube.com/playlist?list=PL6p_PPKPl9GDGPAFKaSXbmDdzA2J1da4U)  
 - [Ресурс,созданный для студентов Хельсинкского университета](https://fullstackopen.com/en/)
 - [Основные паттерны задач в литкод](https://seanprashad.com/leetcode-patterns/)
-- []()
+- [База для программиста. Материалы, которые научат и помогут программировать. Книги и лекции, видеоуроки и советы, тесты знаний и обсуждение горячих тем. ](https://proglib.io/)
 
 #### 🎉 Курсы
 - [Курс для новичков в программировании. Толковый программист](https://smartprogrammer.ru/ )Наткнулся на полезную для начинающих разработчиков рассылку. Конкретно и применимо  В одном из писем рекомендует Хекслет)
@@ -198,6 +211,7 @@ _Материалы разбиты по темам, но не отсортиро
 - [Руководство по оформлению профиля в LinkedIn: примеры и лайфхаки — Карьера на vc.ru](https://vc.ru/hr/305197-rukovodstvo-po-oformleniyu-profilya-v-linkedin-primery-i-layfhaki)
 - [Илья Якямсев "Эффективность не работает", конференция FrontDays 2018. Чувак словил жесткую депрессию и рассказывает, что в айтишке это неизбежно, но жить с этим можно. Ну и рассказывает собственно как с этим жить. Очень смешной, но и очень полезный доклад!](https://www.youtube.com/watch?v=K6oZuB8_dU8)
 - [Вы и ваша работа *](https://habr.com/ru/post/209100/)
+- [Список требований к junior js разработчику EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/modules/js-fe-developer/js-l1-position-requirements.md)
 - []()
 
 ## 📌 Разное
@@ -216,6 +230,8 @@ _Материалы разбиты по темам, но не отсортиро
 - [Идеи для приложений на реакте с использованием редакса из доки по редаксу | англ.яз](https://github.com/florinpop17/app-ideas)
 - [Идеи для проектов](https://techrocks.ru/2018/02/12/side-project-ideas-for-software-engineers/)
 - [How to get the most out of Frontend Mentor](https://medium.com/frontend-mentor/how-to-get-the-most-out-of-frontend-mentor-bdd6fdc25cb8)
+- [СИКП на JS (на английском)]( https://sicp.sourceacademy.org/)
+- [Общий список бесплатных API для использования в программном обеспечении и веб-разработке.](https://github.com/public-apis/public-apis)
 - []()
 
 ## 🎓 Проекты  
