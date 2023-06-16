@@ -3,7 +3,9 @@
 _Материалы составлены командой энтузиастов при изучении программирования на hexlet. Начало 2021 год_  
 _Материалы разбиты по темам, но не отсортированы, добавлены в хронологическом порядке_  
 
-##  🛠 Окружение / Environment  
+##  🛠 Окружение / Environment 
+- [Template gulp 2023](https://github.com/MilaNick/gulp-template)
+- [Template webpack-5 2022](https://github.com/MilaNick/webpack-template)
 - [Установка Docker на MacOS](https://jasonmccreary.me/articles/install-apache-php-mysql-macos-docker-local-development)
 - [Хекслет: кодинг в прямом эфире. Пишем cli-утилиту с нуля ](https://youtu.be/us8AMJKEzZg)
 - [Webpack - Полный курс за 3 часа [2020] Минин Вл.](https://www.youtube.com/watch?v=eSaF8NXeNsA)
